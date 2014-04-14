@@ -5,7 +5,8 @@ public class UserProfiles {
 
 	public String login;
 	public String password;
-	public String[] UserGroups;
+	public String remedylogin;
+	public String[] userGroups;
 	
 	UserProfiles()
 	{
